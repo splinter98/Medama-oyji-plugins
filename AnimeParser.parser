@@ -1,0 +1,8 @@
+[Core]
+Name = AnimeParser
+Module = AnimeParser
+
+[Documentation]
+Description = Anime Parser using Anidb
+Author = Stephen Alderman
+Version = 0.1

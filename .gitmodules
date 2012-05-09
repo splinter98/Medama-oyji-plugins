@@ -1,0 +1,3 @@
+[submodule "AnimeParser/libpyanidb"]
+	path = AnimeParser/libpyanidb
+	url = git@github.com:splinter98/libpyanidb.git
